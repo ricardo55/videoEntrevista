@@ -4,4 +4,6 @@ Es una aplicación que permite grabar una entrevista con una persona y luego rep
 
 ## Instalación
 
-Solo ejecutar el archico index.html
+Solo ejecutar el archivo index.html
+
+Pagina de Ejecución: https://ricardo55.github.io/videoEntrevista/
